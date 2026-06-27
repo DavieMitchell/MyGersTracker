@@ -2,24 +2,14 @@
   "name": "My Gers",
   "short_name": "My Gers",
   "description": "MyGers loyalty points planner for Rangers FC",
-  "start_url": "/MyGersTracker/",
-  "scope": "/MyGersTracker/",
+  "start_url": "https://daviemitchell.github.io/MyGersTracker/",
+  "scope": "https://daviemitchell.github.io/MyGersTracker/",
   "display": "standalone",
   "background_color": "#001133",
   "theme_color": "#001133",
   "orientation": "portrait",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
   ]
 }
